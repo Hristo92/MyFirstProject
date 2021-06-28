@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Pattaya', sans-serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 80px;
+  font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-weight: normal;
+  font-family: 'Sacramento', cursive;
+  font-size: 40px;
+  margin-top: 0;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Sacramento', cursive;
+}
+
+.top {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 0;
+}
+
+.middle-container {
+  background-color: #EAF6F6;
+  margin-top: 0;
+}
+
+.bottom-container {
+  margin-bottom: 0;
+  background-color: #66BFBF;
+}
+.bottom-container p{
+  color: #EAF6F6;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.bottom-container h2{
+  color: #EAF6F6;
+}
+.pro {
+  font-size: 20px;
+}
+
+.top-cloud {
+  position: relative;
+  margin-left: 800px;
+  margin-bottom: 0;
+}
+
+.bottom-cloud {
+  margin-top: 0;
+  margin-right: 800px;
+}
+
+.mountain{
+  max-width: 100%;
+}
+
+.code-logos{
+  width: 50%;
+  width: 30%;
+
+}
+
+.cybersecurity{
+  max-width: 100%;
+  width: 30%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+}
