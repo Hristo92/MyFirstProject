@@ -28,6 +28,15 @@ hr{
   border-bottom: none;
   width: 5%;
 }
+
+a{
+  text-decoration: none;
+  padding: 10px 20px;
+  color: #11999E;
+}
+a:hover {
+  background-color: #30e3cb;
+}
 .top {
   background-color: #EAF6F6;
   position: relative;
